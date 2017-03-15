@@ -1,0 +1,53 @@
+User-agent:*
+
+sitemap: https://www.lovestruckdeals.com/sitemap.xml
+
+Disallow: /*?cat_id=
+
+Disallow: /*?stateID=
+
+Disallow: /weddingdeals?cityName=NewYorkCity
+
+Disallow: /weddingdeals?cityName=JerseyCity
+
+Disallow: /weddingdeals?cityName=Philadelphia
+
+Disallow: /weddingdeals?cityName=Atlanta
+
+Disallow: /weddingdeals?cityName=Jacksonville
+
+Disallow: /weddingdeals?cityName=Miami
+
+Disallow: /weddingdeals?cityName=Austin
+
+Disallow: /weddingdeals?cityName=Dallas
+
+Disallow: /weddingdeals?cityName=Houston
+
+Disallow: /weddingdeals?cityName=Phoenix
+
+Disallow: /weddingdeals?cityName=SanAntonio
+
+Disallow: /weddingdeals?cityName=Indianapolis
+
+Disallow: /weddingdeals?cityName=Nashville
+
+Disallow: /weddingdeals?cityName=LosAngeles
+
+Disallow: /weddingdeals?cityName=SanDiego
+
+Disallow: /weddingdeals?cityName=SanFrancisco
+
+Disallow: /weddingdeals?cityName=SanJose
+
+Disallow: /weddingdeals?cityName=Chicago
+
+Disallow: /weddingdeals?cityName=Seattle
+
+Disallow: /weddingdeals?cityName=Boston
+
+Disallow: /dev/
+
+Disallow: /webadmin/
+
+Disallow: /*?cityname=
